@@ -1,3 +1,9 @@
+PREPCHEM_WCV is a modified version of PREP-CHEM-SRC version 1.5. It has been modified by Luke Surl luke.surl@latmos.ipsl.fr. It is part of the "WCV" package created for modelling volcanic plumers in WRF-Chem. Please see the WCV documentation for help regarding these modifications.
+
+Use of PREPCHEM_WCV for non-volcanic applications is not recommended. For this I recommend obtaining an unmodified version of PREP-CHEM-SRC
+
+The README for PREP-CHEM-SRC version 1.5 is retained below.
+
 PREP-CHEM-SRC version 1.5
 =======================================================================
 -The reference for this code is:
